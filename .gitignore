@@ -134,3 +134,6 @@ dmypy.json
 
 # Idea
 .idea/
+
+/chapter*/bookmarks/cert.crt
+/chapter*/bookmarks/cert.key
